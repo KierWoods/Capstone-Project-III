@@ -1,0 +1,23 @@
+
+			User Overview Report
+Users Registered: 2
+Tasks Generated: 2
+
+User:	admin
+User Tasks:	2
+
+Task(s) Assigned to user %:	100
+Task(s) Completed %:		50
+Task(s) Incomplete %:		50
+Task(s) Overdue %:		0
+			User Overview Report
+Users Registered: 2
+Tasks Generated: 2
+
+User:	kier
+User Tasks:	0
+
+Task(s) Assigned to user %:	0
+Task(s) Completed %:		0
+Task(s) Incomplete %:		0
+Task(s) Overdue %:		0
